@@ -3,7 +3,7 @@ I'm Jay, a self-taught developer passionate about C++ and software engineering. 
 - I’m currently working on a rhythm game called Rebirth, which combines my love for both music and programming, as well as gameplay mechanics via C++ and the Qt framework
 - I’m currently experimenting with Python and AI tools to expand my skillset and explore new areas of software engineering
 - I’m always looking for collaboration oppurtunities!
-  - Send me your ideas over at jayEmissary@gmail.com and we can have a chat! 
+  - Send me your ideas over at jaydevhq@gmail.com and we can have a chat! 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
